@@ -37,6 +37,7 @@ python incident_tracker.py
 ## 📸 Screenshots
 
 *Dashboard with incident overview and real-time statistics*
+
 ![image](https://github.com/user-attachments/assets/110b5d6a-508e-4d03-aa4e-9c2c06b2b712)
 
 
