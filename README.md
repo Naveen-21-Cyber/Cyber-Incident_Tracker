@@ -17,7 +17,7 @@ A comprehensive desktop application for managing and analyzing cybersecurity inc
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/cybersecurity-incident-tracker.git
+git clone https://github.com/Naveen-21-Cyber/cybersecurity-incident-tracker.git
 
 # Install dependencies
 pip install tkinter pandas matplotlib tkcalendar
